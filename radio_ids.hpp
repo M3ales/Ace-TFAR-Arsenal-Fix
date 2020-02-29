@@ -5,7 +5,7 @@
 		scopeCurator = 1; \
 		tf_prototype = 0; \
 		tf_radio = 1; \
-		ace_arsenal_uniqueBase = X \
+		ace_arsenal_uniqueBase = X; \
 	};	
 	
 #define TF_RADIO_IDS(X,Y) \
