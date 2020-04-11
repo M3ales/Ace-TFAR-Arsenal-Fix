@@ -1,5 +1,5 @@
 #define ADDON MIRA_ACE_TFAR_Arsenal_Radio_Fix
-#define ADDON_NAME Ace TFAR Radio Arsenal Fix
+#define ADDON_NAME Ace Arsenal TFAR 0.9.7 Radio Arsenal Fix
 #define FUNC(name) ADDON##_fnc_##name
 #define FUNC_ACE(module,name) ace_##module##_fnc_##name
 #define QUOTE(target) #target

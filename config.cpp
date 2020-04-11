@@ -4,7 +4,7 @@ class CfgPatches {
 	class ADDON {
 		name = ADDON_NAME;
 		author = "M3ales";
-		url = "https://github.com/M3ales/";
+		url = "https://github.com/M3ales/Ace-TFAR-Arsenal-Fix";
 		requiredAddons[] = {"ace_arsenal", "task_force_radio_items"};
 		units[] = {};
 		weapons[] = {};
